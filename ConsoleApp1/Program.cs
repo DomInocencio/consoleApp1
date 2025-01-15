@@ -28,6 +28,6 @@ while (true)
     }
     Console.WriteLine("Tryk en tast for at fortsætte...");
     Console.ReadKey();
-
+    1
     
 }
